@@ -1,1 +1,2 @@
 this file is created at branch location
+new line added to check conflict
